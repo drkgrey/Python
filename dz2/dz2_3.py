@@ -10,7 +10,7 @@ season_dist.update(dict.fromkeys([10, 9, 11], 'осень'))
 
 # цикл для проверки значений
 while True:
-    input_sen = input('введите месяц в виде целого числа от 1 до 12\n')
+    input_sen = input('введите месяц в виде целого числа от 1 до 12\n для выхода намите - s\n')
     if input_sen == 's':
         break
     while not input_sen.isdigit():
