@@ -1,0 +1,7 @@
+line 1
+line 2 and line 2 again
+line 3 - none
+line 4 one million words or maybe not
+l
+-
+eof_to_txt
